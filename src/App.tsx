@@ -16,7 +16,7 @@ function App() {
                 </h3>
                 <img
                   className="card--img"
-                  src="./images/image.png"
+                  src="/images/image.png"
                   width="380"
                   height="677"
                   alt="Одноэтажный дом с двумя спальнями в стиле эклетика"

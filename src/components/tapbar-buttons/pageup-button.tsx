@@ -11,7 +11,7 @@ export function PageupButton() {
 
   return (
     <button className="tapbar-button" onClick={scrollToTop}>
-      <img src="./images/icons/pageup.svg" width="15" height="18" alt="" />
+      <img src="/images/icons/pageup.svg" width="15" height="18" alt="" />
     </button>
   );
 }
