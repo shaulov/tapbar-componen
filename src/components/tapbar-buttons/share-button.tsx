@@ -13,7 +13,7 @@ export function ShareButton() {
 
   return (
     <button className="tapbar-button" onClick={handleClick}>
-      <img src="/images/icons/share.svg" width="15" height="20" alt="" />
+      <img src="./images/icons/share.svg" width="15" height="20" alt="" />
     </button>
   );
 }

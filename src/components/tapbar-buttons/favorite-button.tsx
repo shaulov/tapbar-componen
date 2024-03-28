@@ -10,7 +10,7 @@ export function FavoriteButton() {
 
   return (
     <button className="tapbar-button" onClick={handleClick}>
-      <img src="/images/icons/heart.svg" width="20" height="18" alt="" />
+      <img src="./images/icons/heart.svg" width="20" height="18" alt="" />
       <span className="tapbar-button--text">{likes}</span>
     </button>
   );
